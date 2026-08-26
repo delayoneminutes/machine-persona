@@ -38,4 +38,4 @@
 
 在写完整套系统之前，先把核心的判断逻辑（尤其是协作执行机格里的前置条件检查）做成了一个可以直接安装使用的 Skill，在真实场景里测试、发现问题、修复，记录了完整的迭代过程。
 
-→ [read-the-room](https://github.com/delayoneminutes/read-the-room-skill)
+→ [read-the-room](https://github.com/delayoneminutes/Read-the-Room)
